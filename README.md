@@ -10,5 +10,6 @@ A collection of custom Lua scripts I made for enhancing the [MPV media player](h
 ## Scripts
 ### top_plays
 Tracks your most frequently played songs in MPV by storing playback history (scrobbles).  
-- Displays the top 5 tracks by default (customizable).  
+- Displays the top 5 tracks by default (customizable).
+- Only counts tracks that play for longer than 10 seconds (customizable)
 - Open the menu with **`Ctrl + P`**.
