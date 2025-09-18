@@ -13,3 +13,16 @@ Tracks your most frequently played songs in MPV by storing playback history (scr
 - Displays the top 5 tracks by default (customizable).
 - Only counts tracks that play for longer than 10 seconds (customizable)
 - Open the menu with **`Ctrl + P`**.
+
+## Coming
+### Time Listened
+How long you've played media
+
+### Top Artists
+Your most played artists
+
+### Information Hub
+Easily customizable hub that shows all statistics and information in one place, easy to add on to.
+
+### Genres
+Your most played Genres. Will only be effective if the `Genre` metadata is filled in your files.
