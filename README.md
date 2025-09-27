@@ -1,6 +1,9 @@
 # mpv-scripts
 A collection of custom Lua scripts I made for enhancing the [MPV media player](https://mpv.io).
 
+## Launcher
+I created a simple launcher using batch that creates a random playlist with songs you specify. Simply run `launcher.bat`
+
 ## Installation
 1. Navigate to MPV’s configuration directory (typically located at `\AppData\Roaming\mpv\` on Windows).  
 2. Create a `scripts` folder if it doesnt exist.  
