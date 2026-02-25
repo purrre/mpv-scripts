@@ -1,6 +1,9 @@
 # mpv-scripts
 A collection of custom Lua scripts I made for enhancing the [MPV media player](https://mpv.io).
 
+## Discontinued
+Although I have many other lua scripts unpublished, Ive moved away from MPV.
+
 ## Launcher
 I created a simple launcher using batch that creates a random playlist with songs you specify. Simply run `launcher.bat`
 
